@@ -1,6 +1,7 @@
 # 0xaaaaaron (Aaron Y.)
 
 ## Founder of [Crynux.ai](crynux.ai), xoogler
+* [x.com/0xaaaaaron](x.com/0xaaaaaron)
 
 ### Crynux.ai, 2023-
 * Orchestration protocol on Edge AI
